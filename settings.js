@@ -3,6 +3,6 @@ var settings = {
     titleBarName: "SOFT",
     titleBarCommunity: "WIP",
     siteUrl: "https://jet725.github.io/SOFT-Vintage-Story-Server-Map/",
-    updateText : "Last updated on ",
-    lastUpdated : "Wednesday, 22 October 2025."
+    updateText : "Last updated on",
+    lastUpdated : "Thursday, 23 October 2025."
 }
